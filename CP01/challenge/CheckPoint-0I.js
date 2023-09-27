@@ -2,13 +2,13 @@
 
 // Escribí tu código acá abajo:
 
-let nombre = "Diego";
+let nombre = "Anghelo Gabriel";
 
 // Ejercicio 2: Declarar una variable "edad" y asignarle tu edad.
 
 // Escribí tu código acá abajo:
 
-let edad = 33;
+let edad = 27;
 
 // Ejercicio 3: Declarar una variable "esEstudiante" y asignarle un valor booleano.
 
@@ -20,13 +20,13 @@ let esEstudiante = true;
 
 // Escribí tu código acá abajo:
 
-let num1 = 8.8;
+let num1 = 9.9;
 
 // Ejercicio 5: Declarar una variable "num2" y asignarle un número entero.
 
 // Escribí tu código acá abajo:
 
-let num2 = 8;
+let num2 = 9;
 
 // Ejercicio 6: Declarar una variable "mensaje" y asignarle un mensaje de texto.
 
@@ -50,13 +50,13 @@ let numeroIndefinido;
 
 // Escribí tu código acá abajo:
 
-let frutas = ["manzana", "naranja", "frutilla"];
+let frutas = ["pera", "fresa", "mango"];
 
 // Ejercicio 10: Declarar una variable "persona" y asignarle un objeto con propiedades nombre (string), edad(number) y ciudad(string).
 
 // Escribí tu código acá abajo:
 
-let persona = { nombre: "Diego", edad: 33, ciudad: "Buenos Aires" };
+let persona = { nombre: "Anghelo Gabriel", edad: 27, ciudad: "Puno" };
 
 module.exports = {
   nombre,
